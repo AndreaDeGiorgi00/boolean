@@ -1,0 +1,78 @@
+*{
+  color: white;
+}
+  #sfondo_grigio{
+  background-color: rgba(128, 128, 128, 0.5);
+  padding-left: 50px;
+  margin:100px;
+  background-size: cover;
+  padding-bottom: 100px;
+  border-radius: 10px;
+}
+/* HEAD */
+body{
+  background-image:"background.jpg";
+  background-size: cover;
+  background-position: center;
+}
+
+input{
+  color: black;
+}
+
+
+h2{
+  color: green;
+  font-size: 50px;
+}
+/* /HEAD */
+
+.bottoni_input{
+  margin:auto;
+  padding-top:15px;
+  height: 50px;
+  width: 1000px;
+  background-color: green;
+  border: black solid 1px;
+  border-radius: 5px;
+}
+
+/* PRIMO MONOPATTINO */
+.nome_monopattino{
+  font-size: 50px;
+  margin-left: auto;
+  width: 1000px;
+}
+
+.monopattino{
+margin-left: 255px;
+}
+
+.descrizione_monopattino{
+  font-size: 25px;
+}
+
+/* BATTERIE */
+
+.batteria1{
+  background-color: lightgreen;
+  width: 700px;
+  height: 50px;
+  border-radius: 10px;
+  border: black solid 1px;
+}
+
+.batteria2{
+  background-color: orange;
+  width: 400px;
+  height: 50px;
+  border-radius: 10px;
+  border: black solid 1px;
+}
+
+.batteria3{background-color: red;
+width: 100px;
+height: 50px;
+border-radius: 10px;
+border: black solid 1px;
+}
